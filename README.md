@@ -48,3 +48,5 @@ Este projeto demonstra o potencial do Gemini para ser utilizado em aplicações 
 **Licença**
 
 Este projeto está licenciado sob a licença Apache 2.0.
+
+## (Texto gerado pelo Gemini)
