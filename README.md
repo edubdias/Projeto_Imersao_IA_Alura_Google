@@ -1,4 +1,4 @@
-⭐️ Projeto Imersao IA Alura e Google ⭐️
+## ⭐️ Projeto Imersao IA Alura e Google ⭐️
 
 ## Análise de Exercícios Físicos com Gemini
 
@@ -49,4 +49,4 @@ Este projeto demonstra o potencial do Gemini para ser utilizado em aplicações 
 
 Este projeto está licenciado sob a licença Apache 2.0.
 
-## (Texto gerado pelo Gemini)
+**(Texto gerado pelo Gemini)**
