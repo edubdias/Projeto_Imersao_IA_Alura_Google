@@ -1,2 +1,1 @@
-Projeto Imersao IA Alura e Google
-⭐️ Gemini ⭐️
+⭐️ Projeto Imersao IA Alura e Google ⭐️
