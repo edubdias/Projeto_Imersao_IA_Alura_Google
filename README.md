@@ -1,2 +1,2 @@
-# Projeto_Imersao_IA_Alura_Google
-Projeto do Desafio da Imersão IA Alura + Google
+Projeto Imersao IA Alura e Google
+⭐️ Gemini ⭐️
